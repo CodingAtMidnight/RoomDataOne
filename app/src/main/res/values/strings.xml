@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDataOne</string>
+    <string name="user_account">User Account</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="enter_pay_date">Enter Pay Date</string>
+    <string name="enter_hours_worked">Enter Hours Worked</string>
+</resources>
